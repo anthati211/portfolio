@@ -1,0 +1,14 @@
+#nameDesc {
+    /*display: block;*/ 
+    justify-content: center;
+}
+
+#name {
+    display: flex;
+    justify-content: center;
+}
+
+#desc {
+    display: flex;
+    justify-content: center;
+}
